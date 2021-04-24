@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @itsmusa
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Django Web framework
+- 📫 How to reach me Instagram: @majorbugs
