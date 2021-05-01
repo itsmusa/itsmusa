@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @itsmusa
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning something
-- 📫 How to reach me Instagram: <a href="www.instagram.com/majorbugs">@majorbugs</a>
+- 📫 How to reach me Instagram: @majorbugs
