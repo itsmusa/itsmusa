@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @itsmusa
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Django Web framework
-- 📫 How to reach me Instagram: @majorbugs
+- 👀 I’m interested in a lot of things
+- 🌱 I’m currently learning something
+- 📫 How to reach me Instagram: <a href="www.instagram.com/majorbugs">@majorbugs</a>
