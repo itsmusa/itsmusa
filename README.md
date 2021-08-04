@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @itsmusa
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning something
-- 🍥 CODEPAN: itsmusa
 - 📫 How to reach me Instagram: @majorbugs
