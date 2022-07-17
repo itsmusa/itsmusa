@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsmusa
+- 👋 Hi, I’m musa
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning something
-- 📫 How to reach me Instagram: @majorbugs
+- 📫 How to reach me Twitter: @flawedgoat
