@@ -2,4 +2,3 @@
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning something
 - 📫 How to reach me Twitter, Instagram: @flawedgoat
-- <a href="https://codepen.io/itsmusa" target="_blank">my code pen</a>
