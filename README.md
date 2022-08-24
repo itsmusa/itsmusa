@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Musa Magwaza
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning something
-- 📫 How to reach me Twitter, Instagram: @flawedgoat
+- 📫 Connect with me: [Twitter](https://www.twitter.com/flwedgoat), [Instagram](https://www.instagram.com/flwedgoat)
