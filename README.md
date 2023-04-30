@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Musa, Web Developer.
+- 👋 Hi, I’m Musa.
 - 👀 I’m interested in a lot of things.
 - 🌱 I’m currently learning something.
